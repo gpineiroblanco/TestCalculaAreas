@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author oquintansocampo
+ * @author gpineiroblanco
  */
 public class Vista {
 

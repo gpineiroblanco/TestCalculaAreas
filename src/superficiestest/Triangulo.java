@@ -8,7 +8,7 @@ package superficiestest;
 
 /**
  *
- * @author oquintansocampo
+ * @author gpineiroblanco
  */
 public class Triangulo {
     private float base;

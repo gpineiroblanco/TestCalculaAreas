@@ -15,7 +15,7 @@ import org.junit.runners.Parameterized;
 
 /**
  *
- * @author oquintansocampo
+ * @author gpineiroblanco
  */
 @RunWith(Parameterized.class)
 public class CuadradoTest {

@@ -7,7 +7,7 @@ package superficiestest;
 
 /**
  *
- * @author oquintansocampo
+ * @author gpineiroblanco
  */
 public class Circulo {
 
